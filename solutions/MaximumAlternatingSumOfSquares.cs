@@ -1,4 +1,4 @@
-namespace ipsilon.leetcode;
+namespace ipsilon.leetcode.solutions;
 
 public class Program {
     public static long MaxAlternatingSum(int[] nums) {
